@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="android_logo">android logo</string>
+    <string name="android">android</string>
+    <string name="name">Ameen Shokoya</string>
+    <string name="about">MeenoTeK IT Services</string>
+    <string name="description"><![CDATA[IT Support & Android Engineer]]></string>
+    <string name="email">shokoya01@gmail.com</string>
+    <string name="social_handle">\@lilmeeno</string>
+    <string name="phone_number">+(234)-804-0021-4419</string>
+</resources>
